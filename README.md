@@ -24,6 +24,8 @@ we mainly use **title.crew.tsv.gz**, please download this file firstly.
 
 ## Files description:
 
+**environment.yml:** This file is used to create or update your software environment.
+
 **download.py:** This file is used to download the Movielens dataset and IMDB.
 
 **mergedata.py:** This file is used to combine the Movielens dataset, TMDB and IMDB together to a movies.csv.
