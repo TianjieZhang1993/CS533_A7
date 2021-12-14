@@ -1,7 +1,7 @@
 '''
 This file is mainly for do a preprocess for research question2.
 '''
-
+import sys
 import pandas as pd
 import numpy as np
 
